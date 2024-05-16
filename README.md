@@ -1,3 +1,2 @@
 # Activity-commit
-Hola
-esta monda que
+I like strawberries
